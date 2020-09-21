@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+websites/v2/css/navigation.css linguist-vendored
 websites/v2/css/settings.css linguist-vendored
 websites/v2/js/wow.js linguist-vendored
