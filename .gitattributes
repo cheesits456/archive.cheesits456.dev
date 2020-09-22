@@ -2,4 +2,3 @@
 * text=auto
 websites/v2/css/* linguist-vendored
 websites/v2/js/* linguist-vendored
-websites/v2/js/script.js linguist-vendored=false
