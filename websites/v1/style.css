@@ -1,0 +1,65 @@
+html, body, h1, h2, h3, h4, h5 {
+	font-family: "Open Sans", sans-serif
+}
+
+body {
+	background-color: #25274d;
+	text-align: justify;
+}
+
+.dark-grey {
+	background-color: #464866
+}
+
+.grey {
+	background-color: #aaabb8
+}
+
+.blue {
+	background-color: #29648a
+}
+
+.light-blue {
+	background-color: #2e9cca
+}
+
+.text-dark-grey {
+	color: #464866
+}
+
+.text-grey {
+	color: #c9cbdd
+}
+
+.text-light-blue {
+	color: #2e9cca
+}
+
+.text-blue {
+	color: #29648a
+}
+
+.bold {
+	font-weight: bold
+}
+
+.full-width {
+	width: 100%
+}
+
+.align-left {
+	text-align: left
+}
+
+.align-right {
+	text-align: right
+}
+
+.x-button:hover {
+	cursor: pointer;
+	color: white;
+}
+
+.hidden {
+	display: none;
+}
